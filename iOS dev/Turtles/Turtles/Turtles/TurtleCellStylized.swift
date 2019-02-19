@@ -2,8 +2,8 @@
 //  TurtleCellStylized.swift
 //  Turtles
 //
-//  Created by usher on 2/17/19.
-//  Copyright © 2019 My. All rights reserved.
+//  Created by Nikolay Fedotenko on 17/02/19.
+//  Copyright © 2019 Nikolay Fedotenko. All rights reserved.
 //
 
 import Foundation

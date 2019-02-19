@@ -2,8 +2,8 @@
 //  NSExpression.swift
 //  MyCalc
 //
-//  Created by nameunknown on 2/15/19.
-//  Copyright © 2019 My. All rights reserved.
+//  Created by Nikolay Fedotenko on 15/02/19.
+//  Copyright © 2019 Nikolay Fedotenko. All rights reserved.
 //
 
 import Foundation
