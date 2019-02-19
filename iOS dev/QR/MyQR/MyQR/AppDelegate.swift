@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  MyWeather
+//  MyQR
 //
-//  Created by Nikolay Fedotenko on 16/2/19.
+//  Created by Nikolay Fedotenko on 18/02/19.
 //  Copyright © 2019 Nikolay Fedotenko. All rights reserved.
 //
 
