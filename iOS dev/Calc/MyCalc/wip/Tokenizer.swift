@@ -1,6 +1,6 @@
 //
 //  Tokenizer.swift
-//  DrBoatCalc
+//  MyCalc
 //
 //  Created by Nikolay Fedotenko on 14/02/19.
 //  Copyright © 2019 Nikolay Fedotenko. All rights reserved.

@@ -1,5 +1,5 @@
 //
-//  DBExpression.swift
+//  UILabelExtended.swift
 //  MyCalc
 //
 //  Created by Nikolay Fedotenko on 14/02/19.
