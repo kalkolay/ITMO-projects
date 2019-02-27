@@ -1,0 +1,8 @@
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/lib_rational/CMakeFiles/rebuild_cache.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/lib_rational/CMakeFiles/lib_rational.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/lib_rational/CMakeFiles/edit_cache.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/rational_poly/CMakeFiles/rebuild_cache.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/rational_poly/CMakeFiles/rational_poly.dir
+/home/kalkolay/Desktop/C++/MyProject/cmake-build-debug/rational_poly/CMakeFiles/edit_cache.dir

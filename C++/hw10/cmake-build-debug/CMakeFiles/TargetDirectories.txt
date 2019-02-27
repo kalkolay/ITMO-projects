@@ -1,0 +1,3 @@
+/home/kalkolay/Desktop/old/hw10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kalkolay/Desktop/old/hw10/cmake-build-debug/CMakeFiles/hw10.dir
+/home/kalkolay/Desktop/old/hw10/cmake-build-debug/CMakeFiles/edit_cache.dir

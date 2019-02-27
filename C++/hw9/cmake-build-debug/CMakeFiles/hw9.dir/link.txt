@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hw9.dir/main.cpp.o CMakeFiles/hw9.dir/Array.cpp.o  -o hw9 

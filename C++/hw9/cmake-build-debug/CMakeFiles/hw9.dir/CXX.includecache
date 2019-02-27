@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalkolay/Desktop/C++/hw9/cmake-build-debug/Array.cpp
+Array.h
+/home/kalkolay/Desktop/C++/hw9/cmake-build-debug/Array.h
+algorithm
+-
+
+/home/kalkolay/Desktop/C++/hw9/cmake-build-debug/Array.h
+iostream
+-
+
+/home/kalkolay/Desktop/C++/hw9/main.cpp
+typeinfo
+-
+cmake-build-debug/Array.cpp
+/home/kalkolay/Desktop/C++/hw9/cmake-build-debug/Array.cpp
+tuple
+-
+

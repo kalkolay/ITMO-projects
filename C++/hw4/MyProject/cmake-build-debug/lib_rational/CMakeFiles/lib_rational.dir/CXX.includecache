@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalkolay/Desktop/C++/MyProject/lib_rational/lib_rational.cpp
+iostream
+-
+cmath
+-
+lib_rational.h
+/home/kalkolay/Desktop/C++/MyProject/lib_rational/lib_rational.h
+
+/home/kalkolay/Desktop/C++/MyProject/lib_rational/lib_rational.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hw5.dir/main.cpp.o CMakeFiles/hw5.dir/MyString.cpp.o  -o hw5 

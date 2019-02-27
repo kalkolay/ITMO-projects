@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalkolay/Desktop/C++/hw5/MyString.h
+ostream
+-
+
+/home/kalkolay/Desktop/C++/hw5/main.cpp
+iostream
+-
+MyString.h
+/home/kalkolay/Desktop/C++/hw5/MyString.h
+

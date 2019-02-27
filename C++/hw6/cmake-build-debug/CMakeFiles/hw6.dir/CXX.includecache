@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalkolay/Desktop/C++/hw6/MyIntegerSet.cpp
+MyIntegerSet.h
+/home/kalkolay/Desktop/C++/hw6/MyIntegerSet.h
+sstream
+-
+
+/home/kalkolay/Desktop/C++/hw6/MyIntegerSet.h
+iostream
+-
+set
+-
+
+/home/kalkolay/Desktop/C++/hw6/main.cpp
+MyIntegerSet.h
+/home/kalkolay/Desktop/C++/hw6/MyIntegerSet.h
+iostream
+-
+

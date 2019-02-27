@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kalkolay/Desktop/C++/hw11/BadFromStringException.cpp
+BadFromStringException.h
+/home/kalkolay/Desktop/C++/hw11/BadFromStringException.h
+string
+-
+
+/home/kalkolay/Desktop/C++/hw11/BadFromStringException.h
+exception
+-
+string
+-
+
+/home/kalkolay/Desktop/C++/hw11/main.cpp
+BadFromStringException.h
+/home/kalkolay/Desktop/C++/hw11/BadFromStringException.h
+iostream
+-
+sstream
+-
+

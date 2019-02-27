@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rational_poly.dir/rational_poly.cpp.o  -o rational_poly ../lib_rational/liblib_rational.a 
