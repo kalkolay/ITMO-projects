@@ -4,5 +4,5 @@
 
 ## Работы
 
-1. [Изучение простых преобразований изображений (работа с PNM файлами)](../master/lab1)
+1. [Изучение простых преобразований изображений (работа с PNM файлами)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab1)
 2. Coming soon...
