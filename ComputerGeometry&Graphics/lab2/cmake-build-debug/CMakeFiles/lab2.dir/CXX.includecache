@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kalkolay/Desktop/ITMO/graphics/lab2/file_exceptions.h
+exception
+-
+
+/Users/kalkolay/Desktop/ITMO/graphics/lab2/pnm.cpp
+pnm.h
+/Users/kalkolay/Desktop/ITMO/graphics/lab2/pnm.h
+fstream
+-
+cmath
+-
+functional
+-
+algorithm
+-
+
+/Users/kalkolay/Desktop/ITMO/graphics/lab2/pnm.h
+string
+-
+vector
+-
+file_exceptions.h
+/Users/kalkolay/Desktop/ITMO/graphics/lab2/file_exceptions.h
+
