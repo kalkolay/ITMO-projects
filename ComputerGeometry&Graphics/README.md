@@ -5,5 +5,6 @@
 ## Работы
 
 1. [Изучение простых преобразований изображений (работа с PNM файлами)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab1)
-2. [Изучение алгоритмов отрисовки растровых линий с применением сглаживания и гамма-коррекции (PGM + алгоритм Ву & sRGB)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab2) - пока что не проверена преподавателем
+2. [Изучение алгоритмов отрисовки растровых линий с применением сглаживания и гамма-коррекции (PGM + алгоритм Ву & sRGB)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab2) - **требуется переделать**
 3. [Изучение алгоритмов псевдотонирования изображений (8 алгоритмов дизеринга)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab3) - пока что не проверена преподавателем
+3. [Изучение цветовых пространств (преобразования между цветовыми пространствами)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab4) - в процессе
