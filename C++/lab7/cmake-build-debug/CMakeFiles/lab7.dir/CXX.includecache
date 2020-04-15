@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kalkolay/Desktop/ITMO/prog/labs/lab7/cb_details.h
+iterator
+-
+memory
+-
+cassert
+-
+
+/Users/kalkolay/Desktop/ITMO/prog/labs/lab7/circular_buffer.h
+cb_details.h
+/Users/kalkolay/Desktop/ITMO/prog/labs/lab7/cb_details.h
+limits
+-
+algorithm
+-
+stdexcept
+-
+
+/Users/kalkolay/Desktop/ITMO/prog/labs/lab7/main.cpp
+circular_buffer.h
+/Users/kalkolay/Desktop/ITMO/prog/labs/lab7/circular_buffer.h
+iostream
+-
+
