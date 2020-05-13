@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0CB29EAE-4EA7-4DA9-B193-35DBAEFC0E1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0CB29EAE-4EA7-4DA9-B193-35DBAEFC0E1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lab8</string>
+			<key>timeStartedRecording</key>
+			<real>611040659.53089702</real>
+			<key>timeStoppedRecording</key>
+			<real>611040659.58448601</real>
+			<key>title</key>
+			<string>Build lab8</string>
+			<key>uniqueIdentifier</key>
+			<string>0CB29EAE-4EA7-4DA9-B193-35DBAEFC0E1C</string>
+		</dict>
+		<key>8966C3FD-56EC-4612-8A52-2720562A1008</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8966C3FD-56EC-4612-8A52-2720562A1008.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lab8</string>
+			<key>timeStartedRecording</key>
+			<real>611040565.943138</real>
+			<key>timeStoppedRecording</key>
+			<real>611040566.00587106</real>
+			<key>title</key>
+			<string>Build lab8</string>
+			<key>uniqueIdentifier</key>
+			<string>8966C3FD-56EC-4612-8A52-2720562A1008</string>
+		</dict>
+		<key>CB9D6126-AAC5-45E8-BA33-2EB347F32889</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB9D6126-AAC5-45E8-BA33-2EB347F32889.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lab8</string>
+			<key>timeStartedRecording</key>
+			<real>611039661.82572997</real>
+			<key>timeStoppedRecording</key>
+			<real>611039662.048473</real>
+			<key>title</key>
+			<string>Build lab8</string>
+			<key>uniqueIdentifier</key>
+			<string>CB9D6126-AAC5-45E8-BA33-2EB347F32889</string>
+		</dict>
+		<key>EC5D53FE-0CAF-45E8-B939-A17E3182BCEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC5D53FE-0CAF-45E8-B939-A17E3182BCEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lab8</string>
+			<key>timeStartedRecording</key>
+			<real>611009932.43894196</real>
+			<key>timeStoppedRecording</key>
+			<real>611009934.93294299</real>
+			<key>title</key>
+			<string>Build lab8</string>
+			<key>uniqueIdentifier</key>
+			<string>EC5D53FE-0CAF-45E8-B939-A17E3182BCEB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
