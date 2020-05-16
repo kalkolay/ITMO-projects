@@ -4,7 +4,10 @@
 
 ## Работы
 
-1. [Изучение простых преобразований изображений (работа с PNM файлами)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab1)
-2. [Изучение алгоритмов отрисовки растровых линий с применением сглаживания и гамма-коррекции (PGM + алгоритм Ву & sRGB)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab2) - **требуется переделать**
-3. [Изучение алгоритмов псевдотонирования изображений (8 алгоритмов дизеринга)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab3) - пока что не проверена преподавателем
-3. [Изучение цветовых пространств (преобразования между цветовыми пространствами)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab4) - в процессе
+1. [Изучение простых преобразований изображений (работа с PNM файлами)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab1) - **OK**
+2. [Изучение алгоритмов отрисовки растровых линий с применением сглаживания и гамма-коррекции (PGM + алгоритм Ву & sRGB)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab2) - **требуется переделать (если не указывать значение гаммы, то исчезает антиалиасинг и нет сглаживания концов линии)**
+3. [Изучение алгоритмов псевдотонирования изображений (8 алгоритмов дизеринга)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab3) - **требуется защита**
+4. [Изучение цветовых пространств (преобразования)](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab4) - **ожидается ответ от преподавателя**
+5. [Изучение алгоритма настройки автояркости изображения](https://github.com/kalkolay/ITMO-projects/tree/master/ComputerGeometry%26Graphics/lab5) - **ожидается ответ от преподавателя**
+6. *Coming soon...*
+7. *Coming soon...*
