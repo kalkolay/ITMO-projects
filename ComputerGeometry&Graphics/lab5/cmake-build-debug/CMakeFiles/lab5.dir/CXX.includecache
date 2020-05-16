@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kalkolay/Desktop/ITMO/graphics/lab5/main.cpp
+iostream
+-
+cstdlib
+-
+pnm.h
+/Users/kalkolay/Desktop/ITMO/graphics/lab5/pnm.h
+
+/Users/kalkolay/Desktop/ITMO/graphics/lab5/pnm.h
+string
+-
+vector
+-
+
