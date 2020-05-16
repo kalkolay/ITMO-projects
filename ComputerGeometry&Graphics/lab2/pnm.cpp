@@ -71,7 +71,7 @@ void PNM::drawPoint(int x, int y, double transparency, unsigned char brightness)
     transparency = std::max(std::min(transparency, 1.0), 0.0);
     if (y < 0 || y >= height || x < 0 || x >= width)
         return;
-    static double lineColorLinear = brightness / 255.0,
+    double  lineColorLinear = brightness / 255.0,
             picColorSRGB = pgm[width * y + x] / 255.0,
             picColorLinear = picColorSRGB <= 0.04045 ? picColorSRGB / 12.92 : pow((picColorSRGB + 0.055) / 1.055, 2.4),
             c_Linear = (1 - transparency) * lineColorLinear + transparency * picColorLinear,
