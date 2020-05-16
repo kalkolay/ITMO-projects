@@ -12,7 +12,7 @@
 **lab4.exe -f <from_color_space> -t <to_color_space> -i <count> <input_file_name> -o <count> <output_file_name>**,\
 где
 - <color_space> - RGB / HSL / HSV / YCbCr.601 / YCbCr.709 / YCoCg / CMY
-- <count> - 1 или 3
+- <cоunt> - 1 или 3
 - <file_name>:
   - для count=1 просто имя файла; формат ppm
   - для count=3 шаблон имени вида <name.ext>, что соответствует файлам <name_1.ext>, <name_2.ext> и <name_3.ext> для каждого канала соответственно; формат pgm
