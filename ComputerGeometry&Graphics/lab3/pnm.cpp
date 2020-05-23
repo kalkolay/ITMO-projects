@@ -153,12 +153,12 @@ void PNM::randomDither(unsigned colorDepth) noexcept
 {
     int value = pow(2, colorDepth);
     double buffer;
-    srand(666);
+    srand(time(nullptr));
     for (auto i = 0; i < area; ++i)
     {
         buffer = (backCorrect(_pgm[i])
                   + MAX_COLORS / static_cast<double>(colorDepth)
-                   * (static_cast<double>( rand() ) / 32767. - 0.75) ) / static_cast<double>(MAX_COLORS);
+                   * (static_cast<double>( rand() ) / RAND_MAX - 0.75) ) / static_cast<double>(MAX_COLORS);
         if (buffer < 0)
             buffer = 0;
         buffer *= value;
