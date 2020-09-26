@@ -128,14 +128,29 @@ namespace ini_parser
                                        const std::string& optionName) const
     {
         const std::string& value = TryGetStringOption(sectionName, optionName);
-        return std::stoi(value);
-
+        try
+        {
+            return std::stoi(value);
+        }
+        catch (std::invalid_argument&)
+        {
+            std::string msg = "Invalid type: cannot cast \"" + value + "\" to int";
+            throw exceptions::InvalidTypeException( msg.c_str() );
+        }
     }
 
     double INIParser::TryGetDoubleOption(const std::string& sectionName,
                                          const std::string& optionName) const
     {
         const std::string& value = TryGetStringOption(sectionName, optionName);
-        return std::stod(value);
+        try
+        {
+            return std::stod(value);
+        }
+        catch (std::invalid_argument&)
+        {
+            std::string msg = "Invalid type: cannot cast \"" + value + "\" to double";
+            throw exceptions::InvalidTypeException( msg.c_str() );
+        }
     }
 }
