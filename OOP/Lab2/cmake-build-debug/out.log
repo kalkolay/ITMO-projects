@@ -1,0 +1,241 @@
+
+==================== TASK 1 ====================
+
+3 shops created successfully:
+Shop №1:
+	ID:		 42e80238-bf42-47ec-9d60-a0ff7bd8f95c
+	Name:	 PokemonGo
+	Address: Onion street, 4
+Shop №2:
+	ID:		 6608f851-bbd2-4426-91f2-d1cdf3e6e0f2
+	Name:	 ICE KING
+	Address: Dark boulevard, 33
+Shop №3:
+	ID:		 9a04e032-98aa-4a2b-857a-f2365ef8b4a4
+	Name:	 Bob Shop
+	Address: Hydra avenue, 6
+
+==================== TASK 2 ====================
+
+10 products created successfully:
+Product №1:
+	ID:		  0311a5f6-b815-42c0-b179-b804c5f7198c
+	Name:	  Product №1
+Product №2:
+	ID:		  8da847ab-b639-48a8-854d-4a642a41f213
+	Name:	  Product №2
+Product №3:
+	ID:		  6aa8255c-f481-4701-a3d4-e6905cccdf57
+	Name:	  Product №3
+Product №4:
+	ID:		  27dcb8df-ddb7-4ec3-a29b-c4633b8cd82d
+	Name:	  Product №4
+Product №5:
+	ID:		  112a0f36-bca6-430b-97a9-efc272347b84
+	Name:	  Product №5
+Product №6:
+	ID:		  287d8ba1-7b81-46d0-863f-004fc792d79b
+	Name:	  Product №6
+Product №7:
+	ID:		  4a6504b5-0d02-469a-91ff-a048e946bd5e
+	Name:	  Product №7
+Product №8:
+	ID:		  fd7b0650-0b67-4a95-ba44-d509325794d4
+	Name:	  Product №8
+Product №9:
+	ID:		  9a4f5c15-3da6-461c-aa9c-f2517ed9afe0
+	Name:	  Product №9
+Product №10:
+	ID:		  7120ae49-969a-4e7e-adbe-a4eef4b1abbd
+	Name:	  Product №10
+
+==================== TASK 3 ====================
+
+ProductWrapperArray for shop №1:
+ProductWrapper №1:
+	ID:		  0311a5f6-b815-42c0-b179-b804c5f7198c
+	Name:	  Product №1
+	Price:	  85.1239
+	Quantity: 85
+ProductWrapper №2:
+	ID:		  8da847ab-b639-48a8-854d-4a642a41f213
+	Name:	  Product №2
+	Price:	  891.622
+	Quantity: 7
+ProductWrapper №3:
+	ID:		  6aa8255c-f481-4701-a3d4-e6905cccdf57
+	Name:	  Product №3
+	Price:	  189.771
+	Quantity: 38
+ProductWrapper №4:
+	ID:		  27dcb8df-ddb7-4ec3-a29b-c4633b8cd82d
+	Name:	  Product №4
+	Price:	  398.069
+	Quantity: 26
+ProductWrapper №5:
+	ID:		  112a0f36-bca6-430b-97a9-efc272347b84
+	Name:	  Product №5
+	Price:	  743.538
+	Quantity: 74
+ProductWrapper №6:
+	ID:		  287d8ba1-7b81-46d0-863f-004fc792d79b
+	Name:	  Product №6
+	Price:	  560.434
+	Quantity: 15
+ProductWrapper №7:
+	ID:		  4a6504b5-0d02-469a-91ff-a048e946bd5e
+	Name:	  Product №7
+	Price:	  809.586
+	Quantity: 79
+ProductWrapper №8:
+	ID:		  fd7b0650-0b67-4a95-ba44-d509325794d4
+	Name:	  Product №8
+	Price:	  511.761
+	Quantity: 86
+ProductWrapper №9:
+	ID:		  9a4f5c15-3da6-461c-aa9c-f2517ed9afe0
+	Name:	  Product №9
+	Price:	  995.085
+	Quantity: 25
+ProductWrapper №10:
+	ID:		  7120ae49-969a-4e7e-adbe-a4eef4b1abbd
+	Name:	  Product №10
+	Price:	  966.615
+	Quantity: 61
+Added current productWrapperArray for shop №1
+ProductWrapperArray for shop №2:
+ProductWrapper №1:
+	ID:		  0311a5f6-b815-42c0-b179-b804c5f7198c
+	Name:	  Product №1
+	Price:	  85.1239
+	Quantity: 46
+ProductWrapper №2:
+	ID:		  8da847ab-b639-48a8-854d-4a642a41f213
+	Name:	  Product №2
+	Price:	  891.622
+	Quantity: 65
+ProductWrapper №3:
+	ID:		  6aa8255c-f481-4701-a3d4-e6905cccdf57
+	Name:	  Product №3
+	Price:	  189.771
+	Quantity: 27
+ProductWrapper №4:
+	ID:		  27dcb8df-ddb7-4ec3-a29b-c4633b8cd82d
+	Name:	  Product №4
+	Price:	  398.069
+	Quantity: 83
+ProductWrapper №5:
+	ID:		  112a0f36-bca6-430b-97a9-efc272347b84
+	Name:	  Product №5
+	Price:	  743.538
+	Quantity: 27
+ProductWrapper №6:
+	ID:		  287d8ba1-7b81-46d0-863f-004fc792d79b
+	Name:	  Product №6
+	Price:	  560.434
+	Quantity: 78
+ProductWrapper №7:
+	ID:		  4a6504b5-0d02-469a-91ff-a048e946bd5e
+	Name:	  Product №7
+	Price:	  809.586
+	Quantity: 37
+ProductWrapper №8:
+	ID:		  fd7b0650-0b67-4a95-ba44-d509325794d4
+	Name:	  Product №8
+	Price:	  511.761
+	Quantity: 70
+ProductWrapper №9:
+	ID:		  9a4f5c15-3da6-461c-aa9c-f2517ed9afe0
+	Name:	  Product №9
+	Price:	  995.085
+	Quantity: 32
+ProductWrapper №10:
+	ID:		  7120ae49-969a-4e7e-adbe-a4eef4b1abbd
+	Name:	  Product №10
+	Price:	  966.615
+	Quantity: 87
+Added current productWrapperArray for shop №2
+ProductWrapperArray for shop №3:
+ProductWrapper №1:
+	ID:		  0311a5f6-b815-42c0-b179-b804c5f7198c
+	Name:	  Product №1
+	Price:	  85.1239
+	Quantity: 23
+ProductWrapper №2:
+	ID:		  8da847ab-b639-48a8-854d-4a642a41f213
+	Name:	  Product №2
+	Price:	  891.622
+	Quantity: 64
+ProductWrapper №3:
+	ID:		  6aa8255c-f481-4701-a3d4-e6905cccdf57
+	Name:	  Product №3
+	Price:	  189.771
+	Quantity: 85
+ProductWrapper №4:
+	ID:		  27dcb8df-ddb7-4ec3-a29b-c4633b8cd82d
+	Name:	  Product №4
+	Price:	  398.069
+	Quantity: 12
+ProductWrapper №5:
+	ID:		  112a0f36-bca6-430b-97a9-efc272347b84
+	Name:	  Product №5
+	Price:	  743.538
+	Quantity: 67
+ProductWrapper №6:
+	ID:		  287d8ba1-7b81-46d0-863f-004fc792d79b
+	Name:	  Product №6
+	Price:	  560.434
+	Quantity: 69
+ProductWrapper №7:
+	ID:		  4a6504b5-0d02-469a-91ff-a048e946bd5e
+	Name:	  Product №7
+	Price:	  809.586
+	Quantity: 9
+ProductWrapper №8:
+	ID:		  fd7b0650-0b67-4a95-ba44-d509325794d4
+	Name:	  Product №8
+	Price:	  511.761
+	Quantity: 88
+ProductWrapper №9:
+	ID:		  9a4f5c15-3da6-461c-aa9c-f2517ed9afe0
+	Name:	  Product №9
+	Price:	  995.085
+	Quantity: 19
+ProductWrapper №10:
+	ID:		  7120ae49-969a-4e7e-adbe-a4eef4b1abbd
+	Name:	  Product №10
+	Price:	  966.615
+	Quantity: 61
+Added current productWrapperArray for shop №3
+
+==================== TASK 4 ====================
+
+The cheapest product is in the following shop:
+	ID:		 42e80238-bf42-47ec-9d60-a0ff7bd8f95c
+	Name:	 PokemonGo
+	Address: Onion street, 4
+
+==================== TASK 5 ====================
+
+Products that can be bought in this shop on given price:
+ProductWrapper №1:
+	ID:		  0311a5f6-b815-42c0-b179-b804c5f7198c
+	Name:	  Product №1
+	Price:	  85.1239
+	Quantity: 2
+ProductWrapper №2:
+	ID:		  6aa8255c-f481-4701-a3d4-e6905cccdf57
+	Name:	  Product №3
+	Price:	  189.771
+	Quantity: 1
+
+==================== TASK 6 ====================
+
+Products successfully bought. Total price: 298607
+
+==================== TASK 7 ====================
+
+The following shop has minimal total price for these products:
+	ID:		 42e80238-bf42-47ec-9d60-a0ff7bd8f95c
+	Name:	 PokemonGo
+	Address: Onion street, 4
